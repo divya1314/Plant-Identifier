@@ -38,4 +38,20 @@ This project uses the [Indian Medicinal Leaves Dataset](https://www.kaggle.com/d
 - **Dataset**: Custom dataset of plant images and their benefits
 - **Visualization**: Matplotlib and Seaborn for graph plotting
 
+---
 
+## Project Output 📊
+
+### Sample Prediction:
+Below is a sample prediction from the model:
+
+![Sample Prediction](![Screenshot 2024-12-29 202018](https://github.com/user-attachments/assets/8f1804a0-8c2c-425d-a315-8eddfebdea24)
+)
+
+### Graphical Analysis:![Screenshot 2024-12-29 202032](https://github.com/user-attachments/assets/e5515047-74fe-4fea-aa28-163f99bd4b3e)
+
+
+### Additional Outputs:
+![Screenshot 2024-12-29 202054](https://github.com/user-attachments/assets/702d56fa-1575-4066-9dd2-68aa697ecb67)
+
+  
