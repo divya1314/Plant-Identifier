@@ -19,7 +19,6 @@ This project is a plant and leaf identification system powered by deep learning.
 ---
 
 ## Technology Stack 🛠️
-- **Frontend**: HTML, CSS, and JavaScript
 - **Backend**: Python (Flask/Django)
 - **Machine Learning**: TensorFlow/Keras or PyTorch
 - **Dataset**: Custom dataset of plant images and their benefits
