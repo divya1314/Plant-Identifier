@@ -3,6 +3,20 @@ This project is a plant and leaf identification system powered by deep learning.
 
 ---
 
+## Dataset 📂
+
+This project uses the [Indian Medicinal Leaves Dataset](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset) hosted on Kaggle. The dataset includes:
+
+- **Images**: High-quality leaf and plant images.
+- **Labels**: Plant names and their medicinal benefits.
+
+### Access the Dataset:
+[Click here to view the dataset on Kaggle](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset)
+
+**Note**: You will need a Kaggle account to access and download the dataset.
+
+---
+
 ## Features ✨
 - **Image-Based Identification**: Detects plant species from uploaded images.
 - **Medicinal Benefits Lookup**: Provides detailed medicinal properties for each identified plant.
